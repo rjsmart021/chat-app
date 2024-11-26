@@ -1,6 +1,5 @@
 const socket = io()
 
-
 let activeUser = null;
 let userColor = null;
 let activeRoom = null;
